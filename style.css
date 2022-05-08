@@ -1,1 +1,8 @@
-
+body {
+  background-color: #FAF0E6;
+  color: #000000;
+  font-family: Source Sans Pro;
+  margin: 10% 20%;
+  font-size: 12px;
+  font-size: 1rem;
+}
