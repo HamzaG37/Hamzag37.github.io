@@ -9,3 +9,21 @@ body {
   text-transform: uppercase;
   border-bottom: 1px solid #000000; 
 }
+
+.imgBox {
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.img {
+  position: absolute;
+  top: 0px;
+  height: 12rem;
+  right: 0px;
+}
+
+.picture {
+  max-width: 150;
+  max-height: 150;
+
+}
